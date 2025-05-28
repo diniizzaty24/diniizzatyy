@@ -23,7 +23,7 @@ A web-based system for managing student entrepreneur data under UKM’s CESMED i
 - 📁 Data management with add, edit, delete, and upload from Excel
 - 📤 Export data tables to Excel for reports and backup
 
-> [🔗 Visit project repository](#) *(add your actual repo link here)*
+> [🔗 https://github.com/diniizzaty24/iCESMED]
 
 ---
 
